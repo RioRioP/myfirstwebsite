@@ -1,8 +1,8 @@
 // const myHeading = document.querySelector('h1');
 // myHeading.textContent = 'Hello world!';
-document.querySelector('html').onclick = function() {
-    alert('Ouch! Stop poking me!');
-}
+// document.querySelector('html').onclick = function() {
+//     alert('Ouch! Stop poking me!');
+// }
 
 let myImage = document.querySelector('img');
 myImage.onclick = function() {
