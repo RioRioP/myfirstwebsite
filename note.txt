@@ -1,0 +1,11 @@
+Title:
+    My favorite comic author and novel
+Paragraph:
+    Along with other amazing comic authors and novels, my favorite comic would be the cat series talking about chinese history and sherlock holms
+Theme Color:
+    #B5CAA0
+Font:
+    Standard:
+        <link href="https://fonts.googleapis.com/css2?family=Piedra&display=swap" rel="stylesheet">
+    Specifiy in CSS:
+        font-family: 'Piedra', cursive;
